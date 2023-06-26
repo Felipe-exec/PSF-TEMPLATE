@@ -40,6 +40,7 @@ Github pages: (em breve)
 ## 🛠 Tecnologias
 
 Foi utilizado HTML, CSS, PHP, Javascript e Bootstrap (agradecimentos aos criadores do template: BootstrapMade.com)
+License: https://bootstrapmade.com/license/
 
 ## 🦸 Autores
 
@@ -87,11 +88,3 @@ Foi utilizado HTML, CSS, PHP, Javascript e Bootstrap (agradecimentos aos criador
 
 
 ---
-
-
-Thanks for downloading this template!
-
-Template Name: Moderna
-Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
