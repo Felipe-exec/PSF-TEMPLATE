@@ -35,7 +35,7 @@
 
 ## 🚀 Como executar o projeto
 
-Github pages: (em breve)
+Github pages: https://felipe-exec.github.io/PSF-TEMPLATE/
 
 ## 🛠 Tecnologias
 
