@@ -13,7 +13,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="PSF" title="#PSF" width="40%" src="https://muqui.es.gov.br/home/wp-content/uploads/2018/07/LOGO_ESF.png" />
+    <img alt="PSF" title="#PSF" width="40%" src="https://fisionet.com.br/thumb/img/galery/1442264560programa-saude-familia.jpg" />
 </h1>
 
 <h4 align="center"> 
