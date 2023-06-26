@@ -1479,6 +1479,7 @@ section {
   font-size: 14px;
   line-height: 26px;
   color: #666;
+  text-align: justify;
 }
 
 .team .member:hover .social {
